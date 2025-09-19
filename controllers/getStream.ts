@@ -23,7 +23,7 @@ export default async function getStream(req: Request, res: Response) {
         "Content-Length": "0",
         "Content-Type": "application/x-www-form-urlencoded",
         Dnt: "1",
-        Origin: "https://friness-cherlormur-i-275.site",
+        Origin: "https://i-arch-400.hurry379dec.com",
         Pragma: "no-cache",
         "Sec-Ch-Ua":
           '"Not_A Brand";v="8", "Chromium";v="120", "Microsoft Edge";v="120"',
